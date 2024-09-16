@@ -1,0 +1,24 @@
+
+Cosine similarities for query 'change' (ranked):
+Document 6: 0.2135
+Document 1: 0.0000
+Document 2: 0.0000
+Document 3: 0.0000
+Document 4: 0.0000
+Document 5: 0.0000
+Document 7: 0.0000
+Document 8: 0.0000
+Document 9: 0.0000
+Document 10: 0.0000
+
+Cosine similarities for query 'baby' (ranked):
+Document 4: 0.0511
+Document 1: 0.0000
+Document 2: 0.0000
+Document 3: 0.0000
+Document 5: 0.0000
+Document 6: 0.0000
+Document 7: 0.0000
+Document 8: 0.0000
+Document 9: 0.0000
+Document 10: 0.0000
